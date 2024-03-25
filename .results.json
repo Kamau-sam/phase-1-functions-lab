@@ -5,22 +5,22 @@
     "passes": 13,
     "pending": 0,
     "failures": 0,
-    "start": "2024-03-25T11:31:53.994Z",
-    "end": "2024-03-25T11:31:54.338Z",
-    "duration": 344
+    "start": "2024-03-25T11:49:55.563Z",
+    "end": "2024-03-25T11:49:55.908Z",
+    "duration": 345
   },
   "tests": [
     {
       "title": "returns a distance in blocks",
       "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns a distance in blocks",
       "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -76,7 +76,7 @@
     {
       "title": "gives customers a free sample",
       "fullTitle": "index.js calculatesFarePrice(start, destination) gives customers a free sample",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -108,14 +108,14 @@
     {
       "title": "returns a distance in blocks",
       "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "returns a distance in blocks",
       "fullTitle": "index.js distanceFromHqInBlocks() returns a distance in blocks",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -171,7 +171,7 @@
     {
       "title": "gives customers a free sample",
       "fullTitle": "index.js calculatesFarePrice(start, destination) gives customers a free sample",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },

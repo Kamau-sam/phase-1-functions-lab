@@ -1,13 +1,13 @@
-let blockNo = 42;
-function distanceFromHqInBlocks(blockNo) {
-  if (blockNo > 42) {
-    return blockNo - 42;
+let pickBlock = 42;
+function distanceFromHqInBlocks(pickBlock) {
+  if (pickBlock > 42) {
+    return pickBlock - 42;
   } else {
-    return 42 - blockNo;
+    return 42 - pickBlock;
   }
 }
-function distanceFromHqInFeet(blockNo) {
-  return distanceFromHqInBlocks(blockNo) * 264;
+function distanceFromHqInFeet(pickBlock) {
+  return distanceFromHqInBlocks(pickBlock) * 264;
 }
 function distanceTravelledInFeet(start, destination) {
   if (start < destination) {
